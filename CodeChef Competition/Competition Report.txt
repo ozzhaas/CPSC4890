@@ -24,16 +24,3 @@ are extremely similar to the way we take tests and have to solve problems in
 a short period of time. I think that overall I can improve on my first approach
 to problems. I should take some time to draw out the problem and try to find a
 solution on paper before beginning to code.
-
-I am incredibly sorry that I am submitting this report late, and outside of
-my coding experience, I also need to change my approach for time management.
-I hope that changing this will allow for me to have that extra necessary time
-that I always seem to need whenever something in my program starts to go wrong.
-I thoroughly enjoyed this class as I have in the past. Even though I may not
-completely understand all of the problems or their solutions, I think it is
-important for me to experience a few challenging problems that I may not get the
-correct answer to, but in the long run I will have learned some new technique
-from it.
-
-I hope you have a wonderful holiday and I look forward to taking this class again
-next semester!
